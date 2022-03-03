@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ln[D[D-[C[Cln -a
+ls -ln -a
