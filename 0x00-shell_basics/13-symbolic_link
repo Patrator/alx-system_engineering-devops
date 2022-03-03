@@ -1,4 +1,3 @@
 #!/bin/bash
-ln -s /bin/ls _ls_
-[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_[C[C_[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H[H
-[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+ln -s /bin/ls _ls__[D[D[D[D_[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls__[D[D[D[D[D[D[C[C[C[C[C[C[
