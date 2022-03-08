@@ -1,4 +1,4 @@
-3-twofiles
+#!/bin/bash
 
-[A[A[C[C[C[C[C[C#!/bin/bash
+[A[A[C[C[C[C[C[C[C[C[C[C[C
 cat /etc/passwd /etc/hosts
